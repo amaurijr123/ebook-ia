@@ -1,0 +1,17 @@
+Prompts utilizados para a criação do e-book:
+
+ChatGPT-4o:
+
+"Faça um texto para ebook, com foco em Inteligência Artificial para Negócios, listando as principais formas de utilizar IAs para evoluir e revolucionar o seu próprio negócio, seguindo as {REGRAS}.
+
+{REGRAS}
+
+Explique sempre de uma maneira simples 
+Deixe o texto enxuto 
+Sempre traga exemplos em contextos reais 
+Sempre deixe um título sugestivo por tópico"
+
+CoPilot AI:
+
+Faça uma imagem como se fosse a silhueta das duas IAs numa mesa e ao fundo uma galáxia. Deixe bem minimalista com o mínimo de detalhes possível.
+
